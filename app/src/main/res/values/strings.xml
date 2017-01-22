@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News Feed Ufscar</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="newsfeed">News Feed</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="busca">Busca</string>
+    <string name="add">Adicionar</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="eventos">Eventos</string>
+</resources>
